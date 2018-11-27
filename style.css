@@ -1,0 +1,13 @@
+body {
+    margin: 10px;
+}
+
+.jumbotron {
+    background-color: #8B4513;
+    text-align: center;
+    color: white;
+}
+
+#table {
+    background-color: yellow;
+}
